@@ -1,0 +1,14 @@
+C:\Users\college-312-9\Desktop\lab04\bin\Debug\net10.0\lab04.exe
+C:\Users\college-312-9\Desktop\lab04\bin\Debug\net10.0\lab04.deps.json
+C:\Users\college-312-9\Desktop\lab04\bin\Debug\net10.0\lab04.runtimeconfig.json
+C:\Users\college-312-9\Desktop\lab04\bin\Debug\net10.0\lab04.dll
+C:\Users\college-312-9\Desktop\lab04\bin\Debug\net10.0\lab04.pdb
+C:\Users\college-312-9\Desktop\lab04\obj\Debug\net10.0\lab04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\college-312-9\Desktop\lab04\obj\Debug\net10.0\lab04.AssemblyInfoInputs.cache
+C:\Users\college-312-9\Desktop\lab04\obj\Debug\net10.0\lab04.AssemblyInfo.cs
+C:\Users\college-312-9\Desktop\lab04\obj\Debug\net10.0\lab04.csproj.CoreCompileInputs.cache
+C:\Users\college-312-9\Desktop\lab04\obj\Debug\net10.0\lab04.dll
+C:\Users\college-312-9\Desktop\lab04\obj\Debug\net10.0\refint\lab04.dll
+C:\Users\college-312-9\Desktop\lab04\obj\Debug\net10.0\lab04.pdb
+C:\Users\college-312-9\Desktop\lab04\obj\Debug\net10.0\lab04.genruntimeconfig.cache
+C:\Users\college-312-9\Desktop\lab04\obj\Debug\net10.0\ref\lab04.dll
